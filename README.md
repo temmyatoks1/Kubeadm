@@ -1,4 +1,4 @@
-# kubernetes-and-ansible
+# User Ansible Playbook to setup your kubernates Master and worker cluster
 This repository has set of ansible playbooks created to setup a kubernetes cluster fully automated with one master and multiple worker nodes. This will work on physical servers, virtual machines, aws cloud, google cloud or any other cloud servers. This has been tested and verified on Centos 7.3 64 bit operating systems.
 
 How to use this (Setup Instructions):
